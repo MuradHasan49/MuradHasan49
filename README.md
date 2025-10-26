@@ -3,10 +3,10 @@
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=muradhasan49&label=Profile%20views&color=0e75b6&style=flat"
-        alt="muradhasan49"/>muradhasan4</p>
+        alt="muradhasan49"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=muradhasan49" alt="muradhasan49" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username="muradhasan49" alt="muradhasan49" /></a> </p>
 
 - 🌱 I’m currently learning **javasctipt,react,and database**
 
