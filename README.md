@@ -6,7 +6,7 @@
         alt="muradhasan49"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username="muradhasan49" alt="muradhasan49"/>Ask About</a> </p>
+            src="https://github-profile-trophy.vercel.app/?username="muradhasan49" alt="muradhasan49"/></a> Ask About</p>
 
 - 🌱 I’m currently learning **javasctipt,react,and database**
 
