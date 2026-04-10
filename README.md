@@ -53,21 +53,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muradhasan49&theme=algolia&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muradhasan49/muradhasan49/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
