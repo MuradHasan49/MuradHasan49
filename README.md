@@ -55,18 +55,13 @@ I am a **Diploma CSE Engineer** with a deep passion for modern frontend technolo
 
 ### 📊 Github Stats
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=muradhasan49&show_icons=true&theme=radical&hide_border=true" alt="Murad's Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradhasan49&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradhasan49&theme=radical&hide_border=true" alt="Streak Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muradhasan49&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Murad's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradhasan49&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradhasan49&theme=radical&hide_border=true" alt="Streak Stats" />
+</di
 
 ---
 
