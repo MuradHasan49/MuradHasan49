@@ -18,6 +18,54 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Web App
+🔗 Live: https://your-live-link.com  
+💻 Code: https://github.com/muradhasan49/project-repo  
+
+- Built a full-featured e-commerce platform with **React, Node.js, MongoDB**
+- Implemented **authentication, cart, and payment flow**
+- Optimized performance with lazy loading & API optimization  
+
+**Tech:** React, Node.js, Express, MongoDB, Tailwind  
+
+---
+
+### 📊 Admin Dashboard
+🔗 Live: https://your-live-link.com  
+💻 Code: https://github.com/muradhasan49/project-repo  
+
+- Developed responsive dashboard with **charts & analytics**
+- Implemented reusable components and clean UI architecture  
+- Focused on **UX + performance optimization**  
+
+**Tech:** React, Chart.js, Tailwind  
+
+---
+
+### 🌐 Portfolio Website
+🔗 Live: https://your-live-link.com  
+💻 Code: https://github.com/muradhasan49/project-repo  
+
+- Designed and developed personal portfolio  
+- Fully responsive and optimized for all devices  
+- Showcases projects and skills clearly  
+
+**Tech:** Next.js, Tailwind CSS  
+
+---
+
+### 📝 Blog Platform
+🔗 Live: https://your-live-link.com  
+💻 Code: https://github.com/muradhasan49/project-repo  
+
+- Built CRUD blog system with authentication  
+- Users can create, edit, and delete posts  
+- Integrated backend APIs  
+
+**Tech:** MERN Stack  
+
 ## ⚡ Tech Stack
 
 ### 🖥️ Frontend
