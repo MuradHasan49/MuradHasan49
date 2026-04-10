@@ -15,9 +15,9 @@
 ### 💫 About Me
 I am a **Diploma CSE Engineer** with a deep passion for modern frontend technologies. Currently, I'm sharpening my skills in the **MERN Stack** while keeping a solid foundation in computer hardware and basics.
 
-- 🔭 I’m currently working on **React & Next.js Projects**
-- 🌱 Learning **Advanced JavaScript, Node.js, and Database Management**
-- 💬 Ask me about **HTML, CSS, Tailwind, and React Hooks**
+- 🚀 Currently specializing in **React.js & Next.js**
+- 🛠️ Deeply interested in **UI/UX Design & Performance Optimization**
+- 📚 Part-time explorer of **Cybersecurity & Networking**
 - 📫 Reach me at: **muradhasanshuvo00@gmail.com**
 
 ---
@@ -30,24 +30,40 @@ I am a **Diploma CSE Engineer** with a deep passion for modern frontend technolo
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api/snake?github=muradhasan49&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1f4%2C%234b91f1%2C%233c7dd9&color_snake=%2300d2ff" alt="snake" />
 </div>
 
 ---
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muradhasan49&show_icons=true&theme=radical&hide_border=true&align=center" alt="Murad's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradhasan49&layout=compact&theme=radical&hide_border=true&align=center" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradhasan49&theme=radical&hide_border=true" alt="Streak Stats" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=muradhasan49&show_icons=true&theme=radical&hide_border=true" alt="Murad's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradhasan49&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradhasan49&theme=radical&hide_border=true" alt="Streak Stats" width="100%" />
 </div>
 
 ---
@@ -58,7 +74,7 @@ I am a **Diploma CSE Engineer** with a deep passion for modern frontend technolo
 <a href="https://twitter.com/@muradhasanshuvo" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="https://www.leetcode.com/muradhasan49" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a href="https://stackoverflow.com/users/28332541" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-<a href="https://fb.com/murad hasan" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://fb.com/murad-hasan" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 </p>
 
 <div align="center">
