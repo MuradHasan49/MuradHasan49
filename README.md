@@ -1,69 +1,131 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=220&section=header&text=Murad%20Hasan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20MERN%20Stack&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Murad%20Hasan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN&descAlignY=60&descSize=18" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+MERN+Stack;Building+modern+web+apps;Open+to+opportunities" />
-</div>
+<h1 align="center">Hi 👋, I'm Murad Hasan</h1>
+
+<p align="center">
+  🚀 Frontend Developer focused on building fast, scalable & user-focused web applications
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+MERN+Stack;Building+Real-World+Projects;Clean+UI+%7C+Performance+Focused;Open+to+Internships+%26+Junior+Roles" />
+</p>
+
+---
+
+## 💡 Value Proposition
+
+<p align="center">
+I build responsive, high-performance web apps using modern JavaScript frameworks with a focus on clean UI, scalability, and real-world usability.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Frontend Developer focused on **React & modern UI**
-- 🚀 Building scalable apps with **MERN Stack**
-- 🎯 Goal: Join a **startup / product-based company**
-- 🧠 Learning: **Performance Optimization & System Design**
-- 📍 Based in Bangladesh  
+- 💻 Frontend Developer specializing in **React & Next.js applications**
+- ⚡ Focused on **performance optimization & scalable UI architecture**
+- 🌐 Experienced with **API integration & dynamic data-driven apps**
+- 🎯 Actively looking for **Internship / Junior Frontend roles**
+- 📍 Based in Bangladesh
 
 ---
 
-## ⚡ Tech Stack
+## 🔥 Featured Projects
 
-### 🖥️ Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### ⚙️ Backend & DB
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-0000f?style=for-the-badge&logo=mysql)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+### 📝 English Vocabulary App
+- 🔗 Live: https://your-live-link.com
+- 💻 Code: https://github.com/your-repo
+- ⚙️ Tech: React, API, Tailwind CSS
+- 📌 Features:
+  - Dynamic API data loading
+  - Search & filter system
+  - Responsive UI design
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muradhasan49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muradhasan49&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradhasan49&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
+### ✅ Todo CRUD App
+- 🔗 Live: https://your-live-link.com
+- 💻 Code: https://github.com/your-repo
+- ⚙️ Tech: React, LocalStorage
+- 📌 Features:
+  - Add / Edit / Delete tasks
+  - Persistent data storage
+  - Clean and minimal UI
 
 ---
 
+### 🌐 MERN Stack Project
+- 🔗 Live: https://your-live-link.com
+- 💻 Code: https://github.com/your-repo
+- ⚙️ Tech: MongoDB, Express, React, Node.js
+- 📌 Features:
+  - Full-stack authentication
+  - REST API integration
+  - Real-world CRUD operations
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark&perline=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muradhasan49&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muradhasan49&theme=github_dark" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muradhasan49&theme=github_dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muradhasan49/muradhasan49/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧩 What I’m Working On
+
+- 🔧 Improving **Next.js performance & SEO**
+- 📦 Building **real-world full-stack MERN applications**
+- 📈 Strengthening **problem-solving (LeetCode)**
+
+---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muradhasan49/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://twitter.com/muradhasans49"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
-  <a href="https://leetcode.com/muradhasan49"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muradhasan49/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/muradhasans49">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://leetcode.com/muradhasan49">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muradhasan49&label=Profile+Views&color=0e75b6&style=flat" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muradhasan49&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Star this repo if you like my work!
+</p>
