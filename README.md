@@ -35,8 +35,8 @@ I build responsive, high-performance web apps using modern JavaScript frameworks
 ## 🔥 Featured Projects
 
 ### 📝 English Vocabulary App
-- 🔗 Live: [Click](https://englishvocabulary1.netlify.app/)
-- 💻 Code: https://github.com/your-repo
+- 🔗  [Live:](https://englishvocabulary1.netlify.app/)
+- 💻  [Code:] (https://github.com/MuradHasan49/English-Janala)
 - ⚙️ Tech: React, API, Tailwind CSS
 - 📌 Features:
   - Dynamic API data loading
