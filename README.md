@@ -46,8 +46,8 @@ I build responsive, high-performance web apps using modern JavaScript frameworks
 ---
 
 ### ✅ Todo CRUD App
-- 🔗 Live: https://your-live-link.com
-- 💻 Code: https://github.com/your-repo
+- 🔗  [Live:](https://todo49.netlify.app/)
+- 💻  [Code:](https://github.com/MuradHasan49/Todo-List-App)
 - ⚙️ Tech: React, LocalStorage
 - 📌 Features:
   - Add / Edit / Delete tasks
@@ -57,8 +57,8 @@ I build responsive, high-performance web apps using modern JavaScript frameworks
 ---
 
 ### 🌐 MERN Stack Project
-- 🔗 Live: https://your-live-link.com
-- 💻 Code: https://github.com/your-repo
+- 🔗  [Live:](https://todo49.netlify.app/)
+- 💻  [Code:](https://github.com/MuradHasan49/Todo-List-App)
 - ⚙️ Tech: MongoDB, Express, React, Node.js
 - 📌 Features:
   - Full-stack authentication
