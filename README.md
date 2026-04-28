@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Murad Hasan</h1>
 
 <p align="center">
-  🚀 Frontend Developer focused on building fast, scalable & user-focused web applications
+  🚀 Frontend Developer focused on building fast, scalable & user-centric web applications
 </p>
 
 <p align="center">
@@ -14,64 +14,67 @@
 
 ---
 
-## 💡 Value Proposition
+## 👨‍💻 About Me
 
-<p align="center">
-I build responsive, high-performance web apps using modern JavaScript frameworks with a focus on clean UI, scalability, and real-world usability.
-</p>
+Passionate Frontend Developer with a strong focus on creating fast, scalable, and user-centric web applications.Experienced in building dynamic interfaces using React, Next.js, and modern JavaScript ecosystems.  Skilled at transforming ideas into real-world products with clean UI, efficient performance, and maintainable code.Continuously learning and improving through hands-on projects and problem-solving challenges.Open to internship and junior developer roles where I can deliver value and grow professionally.
+
+- 💻 Specialized in **React & Next.js**
+- ⚡ Focused on **performance, scalability & clean UI architecture**
+- 🌐 Experienced in **API integration & dynamic applications**
+- 🎯 Actively seeking **Internship / Junior Frontend roles**
+- 📍 Based in **Bangladesh**
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Current Activities
 
-- 💻 Frontend Developer specializing in **React & Next.js applications**
-- ⚡ Focused on **performance optimization & scalable UI architecture**
-- 🌐 Experienced with **API integration & dynamic data-driven apps**
-- 🎯 Actively looking for **Internship / Junior Frontend roles**
-- 📍 Based in Bangladesh
+- 🔭 Exploring **Next.js (App Router & SEO optimization)**
+- 📦 Building **real-world MERN stack applications**
+- 🧠 Practicing **problem-solving (LeetCode)**
+- 🎨 Creating **modern UI with Tailwind CSS & GSAP**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark&perline=7" />
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 📝 English Vocabulary App
-- 🔗  [Live:](https://englishvocabulary1.netlify.app/)
-- 💻  [Code:](https://github.com/MuradHasan49/English-Janala)
+- 🔗 Live: https://englishvocabulary1.netlify.app/
+- 💻 Code: https://github.com/MuradHasan49/English-Janala
 - ⚙️ Tech: React, API, Tailwind CSS
-- 📌 Features:
+- ✨ Features:
   - Dynamic API data loading
   - Search & filter system
-  - Responsive UI design
+  - Fully responsive UI
 
 ---
 
 ### ✅ Todo CRUD App
-- 🔗  [Live:](https://todo49.netlify.app/)
-- 💻  [Code:](https://github.com/MuradHasan49/Todo-List-App)
+- 🔗 Live: https://todo49.netlify.app/
+- 💻 Code: https://github.com/MuradHasan49/Todo-List-App
 - ⚙️ Tech: React, LocalStorage
-- 📌 Features:
-  - Add / Edit / Delete tasks
+- ✨ Features:
+  - Full CRUD operations
   - Persistent data storage
-  - Clean and minimal UI
+  - Clean and minimal design
 
 ---
 
 ### 🌐 MERN Stack Project
-- 🔗  [Live:](https://todo49.netlify.app/)
-- 💻  [Code:](https://github.com/MuradHasan49/Todo-List-App)
+- 🔗 Live: https://todo49.netlify.app/
+- 💻 Code: https://github.com/MuradHasan49/Todo-List-App
 - ⚙️ Tech: MongoDB, Express, React, Node.js
-- 📌 Features:
-  - Full-stack authentication
+- ✨ Features:
+  - Authentication system
   - REST API integration
-  - Real-world CRUD operations
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark&perline=7" />
-</p>
+  - Full-stack CRUD functionality
 
 ---
 
@@ -93,14 +96,6 @@ I build responsive, high-performance web apps using modern JavaScript frameworks
 <p align="center">
   <img src="https://raw.githubusercontent.com/muradhasan49/muradhasan49/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 🧩 What I’m Working On
-
-- 🔧 Improving **Next.js performance & SEO**
-- 📦 Building **real-world full-stack MERN applications**
-- 📈 Strengthening **problem-solving (LeetCode)**
 
 ---
 
