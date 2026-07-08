@@ -49,15 +49,39 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark&perline=7" />
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,py)](https://github.com/muradhasan49)
+
+### CSS Frameworks & Libraries:
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
 </p>
 
-<p align="center"><b>Currently Learning</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/muradhasan49)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/muradhasan49)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/muradhasan49)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ps)](https://github.com/muradhasan49)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman)](https://github.com/muradhasan49)
+
+<br/>
 
 ---
 
