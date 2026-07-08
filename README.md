@@ -56,28 +56,6 @@ Passionate Frontend Developer with a strong focus on creating fast, scalable, an
 
 ---
 
-### ✅ Todo CRUD App
-- 🔗 Live: https://todo49.netlify.app/
-- 💻 Code: https://github.com/MuradHasan49/Todo-List-App
-- ⚙️ Tech: React, LocalStorage
-- ✨ Features:
-  - Full CRUD operations
-  - Persistent data storage
-  - Clean and minimal design
-
----
-
-### 🌐 MERN Stack Project
-- 🔗 Live: https://todo49.netlify.app/
-- 💻 Code: https://github.com/MuradHasan49/Todo-List-App
-- ⚙️ Tech: MongoDB, Express, React, Node.js
-- ✨ Features:
-  - Authentication system
-  - REST API integration
-  - Full-stack CRUD functionality
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
