@@ -86,11 +86,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muradhasan49&theme=github_dark" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradhasan49&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muradhasan49&theme=github_dark" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muradhasan49&theme=github_dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muradhasan49&theme=dark&hide_border=true" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muradhasan49&theme=github_dark" height="180"/>
 </p>
 
