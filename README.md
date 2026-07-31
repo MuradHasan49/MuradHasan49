@@ -85,8 +85,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muradhasan49&theme=github_dark" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muradhasan49&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muradhasan49&theme=github_dark" height="180"/>
 </p>
 
 <p align="center">
