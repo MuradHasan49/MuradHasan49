@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Murad%20Hasan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=60&descSize=18" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Murad Hasan</h1>
+<h1 align="center">Hi 👋, I'm Murad Hasan </h1>
 
 <p align="center">
   🚀 MERN Stack Developer focused on building fast, scalable & user-centric web applications
@@ -128,5 +128,5 @@
 </p>
 
 <p align="center">
-  ⭐ Star this repo if you like my work !
+  ⭐ Star this repo if you like my work !!!
 </p>
